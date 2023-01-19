@@ -1,1 +1,1 @@
-# etoshinya.github.io
+# typical business card site
